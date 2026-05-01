@@ -2,6 +2,8 @@
 Interactive Python tool for corporate carbon accounting following GHG Protocol standards.
 # 🌍 Corporate Carbon Footprint Tool (Scope 1 & 2)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_COLAB_URL_HERE](https://colab.research.google.com/drive/1Cbh1EuPMdlYIaKNsP6qcaNY7QQLEdiJ-#scrollTo=VDa7t-5L03hn))
+
 ## Project Overview
 As an entry-level Sustainability Analyst, I developed this interactive Python tool to help small-to-medium enterprises (SMEs) begin their carbon accounting journey. The tool calculates direct and indirect emissions in alignment with the **GHG Protocol Corporate Standard**.
 
